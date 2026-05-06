@@ -1,1 +1,40 @@
-
+{
+  "name": "Aram App Store",
+  "identifier": "com.aramtayar.repo",
+  "sourceURL": "https://raw.githubusercontent.com/aramtayar7-dev/ipa/main/apps.json",
+  "apps": [
+    {
+      "name": "OldRoll Vintage Camera",
+      "bundleIdentifier": "com.oldroll.camera1",
+      "version": "1.0",
+      "versionDate": "2026-05-06",
+      "size": 195000000,
+      "downloadURL": "https://github.com/aramtayar7-dev/ipa/releases/download/apps.json/OldRoll.-.Vintage.Film.Camera.3BodSy.ipa",
+      "developerName": "Aram Tayar",
+      "iconURL": "https://raw.githubusercontent.com/aramtayar7-dev/ipa/main/icon.png",
+      "localizedDescription": "کامێرای کلاسیک بۆ وێنەگرتن"
+    },
+    {
+      "name": "OldRoll v4.5.2",
+      "bundleIdentifier": "com.oldroll.camera2",
+      "version": "4.5.2",
+      "versionDate": "2026-05-06",
+      "size": 133000000,
+      "downloadURL": "https://github.com/aramtayar7-dev/ipa/releases/download/apps.json/OldRoll.4.5.2.ipa",
+      "developerName": "Aram Tayar",
+      "iconURL": "https://raw.githubusercontent.com/aramtayar7-dev/ipa/main/icon.png",
+      "localizedDescription": "وەشانی ٤.٥.٢ ی بەرنامەی OldRoll"
+    },
+    {
+      "name": "YouTube+",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "21.14.4",
+      "versionDate": "2026-05-06",
+      "size": 115000000,
+      "downloadURL": "https://github.com/aramtayar7-dev/ipa/releases/download/apps.json/YouTube+.21.14.4.ipa",
+      "developerName": "Aram Tayar",
+      "iconURL": "https://raw.githubusercontent.com/aramtayar7-dev/ipa/main/icon.png",
+      "localizedDescription": "یوتیوب پڵەس بێ ڕێکلام"
+    }
+  ]
+}
