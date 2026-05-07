@@ -35,6 +35,50 @@
       "developerName": "guevara ipa",
       "iconURL": "https://raw.githubusercontent.com/aramtayar7-dev/ipa/main/icon.png",
       "localizedDescription": "یوتیوب پڵەس بێ ڕێکلام"
+    },
+    {
+      "name": "CapCut PRO",
+      "bundleIdentifier": "com.lemon.lvoverseas",
+      "version": "15.3.2",
+      "versionDate": "2026-05-07",
+      "size": 200000000,
+      "downloadURL": "https://github.com/aramtayar7-dev/ipa/releases/download/apps.json/CapCut PRO_GeniusHack_12.0_1769518384.ipa",
+      "developerName": "GeniusHack",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/14/b4/4414b4f5-934c-6f81-2244-1234567890ab/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+      "localizedDescription": "وەشانی پڕۆ و بێ ڕێکلامی بەرنامەی CapCut"
+    },
+    {
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "8.9.74",
+      "versionDate": "2026-05-07",
+      "size": 75000000,
+      "downloadURL": "https://github.com/aramtayar7-dev/ipa/releases/download/v8.9.74/Spotify_8.9.74.ipa",
+      "developerName": "Spotilife",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/18/60/0d186095-2f47-7977-8d76-80f0896987f2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+      "localizedDescription": "گوێگرتن لە مۆسیقا بەبێ ڕێکلام و کوالێتی بەرز"
+    },
+    {
+      "name": "Instagram Rocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "332.0.0",
+      "versionDate": "2026-05-07",
+      "size": 120000000,
+      "downloadURL": "https://github.com/aramtayar7-dev/ipa/releases/download/v332.0.0/Instagram_Rocket.ipa",
+      "developerName": "Majd Alfhaily",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/7e/61/807e6181-424b-3269-e93e-3243d6c703d1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+      "localizedDescription": "داونلۆدکردنی ڤیدیۆ و وێنە لە ئینستاگرام"
+    },
+    {
+      "name": "TikTok Unicode",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "34.0.0",
+      "versionDate": "2026-05-07",
+      "size": 150000000,
+      "downloadURL": "https://github.com/aramtayar7-dev/ipa/releases/download/v34.0.0/TikTok_Unicode.ipa",
+      "developerName": "Unicode",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/32/3f/a9323f4b-007e-1234-5678-90abcdef1234/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+      "localizedDescription": "تیکتۆکی دەستکاریکراو بۆ گۆڕینی فۆنت و ئیمۆجی"
     }
   ]
 }
